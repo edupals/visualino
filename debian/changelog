@@ -1,3 +1,9 @@
+visualino (0.7+lliurex1.0) xenial; urgency=high
+
+  * LliureX xenial version
+
+ -- Daniel Duran <daduve@gmail.com>  Mon, 18 May 2020 22:52:33 +0200
+
 visualino (0.7) wily; urgency=medium
 
   * Blocks for typed variables.
